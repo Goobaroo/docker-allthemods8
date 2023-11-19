@@ -36,7 +36,7 @@ These environment variables can be set at run time to override their defaults.
 
 * JVM_OPTS "-Xms2048m -Xmx4096m"
 * MOTD "All the Mods 8-1.0.28 Server Powered by Docker"
-* LEVEL world
+* LEVEL 
 
 ### Adding Minecraft Operators
 
